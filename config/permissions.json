@@ -1,0 +1,7 @@
+{
+  "registeredTargetsOnly": true,
+  "requireOperatorAdmin": true,
+  "requireBotAdmin": true,
+  "allowMassRemoval": false,
+  "allowForcedTakeover": false
+}

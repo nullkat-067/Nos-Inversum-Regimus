@@ -1,0 +1,14 @@
+{
+  "botName": "Nos Invernus Sentinel",
+  "codename": "NK-T1",
+  "organization": "NullKat Development",
+  "developer": "Wahyu Katnoko",
+  "coDeveloper": "Echarina Bizulifah Putri",
+  "version": "1.0.0",
+  "commandPrefix": "!",
+  "groupNameTemplate": "{name} // NK-T1",
+  "terminalColors": true,
+  "logLevel": "info",
+  "confirmationRequired": true,
+  "maxConcurrentOperations": 1
+}
